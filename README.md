@@ -1,2 +1,2 @@
-# Python-Projects
-The portfolio showcases proficiency in utilizing Python through a collection of coding projects.
+Explored Seattle graffiti culture through collecting, cleaning, and analyzing data. 
+
